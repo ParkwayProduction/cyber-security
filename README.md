@@ -1,4 +1,8 @@
 # Cybersecurity
+
+Currently undergroing the IBM CyberSecurity Analyst Certification on Coursera.
+Below are the completed courses and certifications.
+
 Google Cybersecurity Certificate 
 
 Welcome to my journey and interpretations of code and cybersecurity. 
